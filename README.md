@@ -1,8 +1,8 @@
-# 🛡️ PRODIGY_CS_05 – Packet Sniffer (GUI Version)
+# 🛡️ Packet Sniffer (GUI Version)
 
-### ✅ Internship Task - Prodigy Infotech (Cyber Security Track)
+### ✅ Project Task - (Cyber Security Track)
 
-This repository contains **Task 05** of the **Prodigy Infotech Cyber Security Internship**, where I developed a **Network Packet Sniffer GUI** using **Python**, **Scapy**, and **CustomTkinter**.  
+In this Task, where I developed a **Network Packet Sniffer GUI** using **Python**, **Scapy**, and **CustomTkinter**.  
 The tool captures live IP packets from a given network interface and displays source IP, destination IP, protocol, and payload data in real time.
 
 ---
@@ -29,7 +29,7 @@ A packet sniffer is a tool that monitors network traffic by capturing packets tr
 ## 📂 File Structure
 
 ```bash
-PRODIGY_CS_05/
+PACKET_SNIFFER_PYTHON/
 ├── README.md           # Project documentation    
 └── main.py             # Main GUI-based packet sniffer
 ```
@@ -53,8 +53,8 @@ PRODIGY_CS_05/
 
 ### 🧪 Steps:
 ```bash
-git clone https://github.com/YashYadav579/PRODIGY_CS_05.git
-cd PRODIGY_CS_05
+git clone https://github.com/YashYadav579/PACKET_SNIFFER_PYTHON.git
+cd PACKET_SNIFFER_PYTHON
 pip install customtkinter scapy
 python main.py
 ```
@@ -85,9 +85,7 @@ Do **not** use this software without the **user’s full knowledge and consent**
 ## 🙋‍♂️ About Me
 
 **Name**: _Yash Yadav_  
-**Intern** @ **Prodigy Infotech** – Cyber Security Track  
-**Task**: Packet Sniffer using Python GUI   
-**Task ID**: PRODIGY_CS_05  
+**Task**: Packet Sniffer using Python GUI     
 
 ---
 
@@ -106,4 +104,3 @@ This project enhanced my skills in:
 - Real-time threading & event handling in Python
 - Ethical cybersecurity practices
 
-Thanks to Prodigy Infotech for another valuable learning opportunity!
